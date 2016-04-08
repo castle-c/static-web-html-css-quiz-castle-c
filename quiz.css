@@ -1,0 +1,49 @@
+
+
+article {
+	width: 30%;
+	float: left;
+	border: solid 1px lightblue;
+	margin: 10px;
+	margin-left: 25px;
+}
+.head1 {
+	border: solid 1px lightgray;
+	text-align: center;
+}
+.discription {
+	text-align: justify;
+}
+
+ul {
+	font-weight: bold;
+	list-style: none;
+	font-size: .9em;
+	margin: 0px;
+}
+
+.ava {
+	background-color: darkgrey;
+	color: yellow;
+
+}
+
+footer {
+	
+	font-size: .8em;
+}
+
+.sprice {
+	padding-left: 25px;
+    font-size: 1.2em;
+    margin: 0px;
+   
+}
+
+img {
+	width: 40%;
+}
+
+.imgdiv {
+	text-align: center;
+}
